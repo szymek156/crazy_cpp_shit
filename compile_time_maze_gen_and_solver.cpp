@@ -1,4 +1,11 @@
-//https://www.youtube.com/watch?v=3SXML1-Ty5U
+// Author Jason Turner:
+// https://www.youtube.com/watch?v=3SXML1-Ty5U
+
+// Maze generated at compile time, and solved
+// runtime used only to show results
+
+// Assembly output:
+// http://tinyurl.com/zwa9y3u
 
 #include <cstdint>
 #include <cstddef>
